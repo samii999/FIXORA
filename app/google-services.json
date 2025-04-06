@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477321569879",
+    "project_id": "fixora-6e85b",
+    "storage_bucket": "fixora-6e85b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477321569879:android:a0c1e8267991054c252512",
+        "android_client_info": {
+          "package_name": "com.fixora.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNKy-ME9rnbKmchpMTj2-CK8ydKtTxJv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
